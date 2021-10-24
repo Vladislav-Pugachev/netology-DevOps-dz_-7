@@ -19,7 +19,29 @@ cd is a shell builtin
 
 ### 5.
 
-> less 1 >  2
+```
+vagrant@vagrant:~$ cat 2
+привет
+пока
+привет
+пока
+привет
+пока
+привет
+пока
+привет
+пока
+привет
+пока
+привет
+пока
+пока пока пока
+sfsfsfsdfsdf
+sdf
+vagrant@vagrant:~$ wc -l 2 > 3
+vagrant@vagrant:~$ cat 3
+17 2
+```
 
 ### 6.
 
